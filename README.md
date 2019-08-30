@@ -1,2 +1,2 @@
-# pkgs-4-h3c-20190830
+# pkgs-4-h3c
 to store packages for h3c 
